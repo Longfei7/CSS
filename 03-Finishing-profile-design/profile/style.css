@@ -1,0 +1,32 @@
+h1 {
+	font-size: 30px;
+	color:rgb(0,41,101);
+}
+
+.center {
+	background-color: rgb(220,230,246);
+	text-align: center;
+}
+.unifiedFont {
+	font-family: calibri ;
+}
+.whitebox {
+	background-color: white;
+	margin: 20px; 
+	padding: 20px;
+	border-radius: 4px;
+}
+.roundbox{
+	border-radius: 50%;
+}
+.btn{
+	font-size:20px;
+	background-color: rgb(0,41,101);
+	margin:20px;
+	padding:20px;
+	color: white;
+	border-radius: 15px;
+}
+.btn:hover {
+	background-color:black;
+}
